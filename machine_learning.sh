@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 echo "FILE INSTALLED DEPENDENCIES"
 
-python .recomendador.py && streamlit run ./app/app.py
+python recomendador.py && streamlit run ./app/app.py
 
 
 
