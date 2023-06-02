@@ -2,7 +2,9 @@
 
 echo "CREATE FILES"
 
-mdkir ./pickle_files/{lista_peliculas,similarity}.pkl
+mkdir pickle_files
+
+touch ./pickle_files/{lista_peliculas,similarity}.pkl
 
 virtualenv venv && source ./venv/bin/activate
 
