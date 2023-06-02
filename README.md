@@ -25,6 +25,6 @@ ARCHIVOS DE VITAL IMPORTANCIA:
 para levantar el proyecto debemos correr el siguiente shell que automatiza directamente el proyecto.
 
 ```
- source ./machine_learning_init.sh
+ source machine_learning_init.sh
 
 ```
