@@ -27,5 +27,4 @@ para levantar el proyecto debemos correr el siguiente shell que automatiza direc
 ```
  source ./machine_learning_init.sh
 
- >> correr la notebook
 ```
